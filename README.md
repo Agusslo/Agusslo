@@ -39,10 +39,3 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
 </p>
 </div>
 <br>
-<h2> My Stats📊 </h1>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Agusslo&theme=monokai&hide_border=true)](https://git.io/streak-stats)
-  <br>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Agusslo&show_icons=true&theme=radical)
-  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agusslo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
