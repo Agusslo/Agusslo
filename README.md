@@ -25,9 +25,9 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
   </p>
    <h4 align = "center"> IDE's Used</h4>
   <p align="center">
-     <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
-     <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-     <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">     
+     <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
+     <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+     <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">     
       </p>
 </div>
 
@@ -35,8 +35,8 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
 
 <div> 
 <p align="center">
-  <a href="https://instagram.com/aaguss.lo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:agus.lopez042004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/agusscoo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "agus.lopez042004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/agustin-nicolas-lopez-5a6476224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 </div>
