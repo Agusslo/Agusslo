@@ -20,7 +20,8 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
   <img align="center" alt="aguss-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="aguss-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="aguss-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="aguss-" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="aguss-PY" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="aguss-GIT" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
   </p>
    <h4 align = "center"> IDE's Used</h4>
   <p align="center">
@@ -30,7 +31,7 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
       </p>
 </div>
 
-![snake gif](https://github.com/GioLucc/GioLucc/blob/output/github-contribution-grid-snake.svg)
+
 
 <div> 
 <p align="center">
