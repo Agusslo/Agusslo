@@ -4,7 +4,7 @@
 <h3> My name is Agustin, but everyone calls me Agus!<br>
      At the present time I'm Studying at <strong>National Technological University [UTN]</strong><br><br>
 My current knowledge
-Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C" width="40" height="28"/> & Currently studying C#  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C" width="40" height="28"/> & Currently studying JAVA SE  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/java-original.svg" title="Git" **alt="Git" width="40" height="40"/>
         <br><br>
         Programming Student at the
         <br>
