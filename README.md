@@ -29,7 +29,7 @@ C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp
      <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
      <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
      <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-      <img align="center" alt="aguss-CSS" height="45" width="45" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png"> 
+      <img align="center" alt="aguss-CSS" height="45" width="45" src="https://rjcodeadvance.com/wp-content/uploads/2019/10/apache-netbeans-11.png"> 
       </p>
 </div>
 
