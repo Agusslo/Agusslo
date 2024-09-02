@@ -4,7 +4,7 @@
 <h3> My name is Agustin, but everyone calls me Agus!<br>
      At the present time I'm Studying at <strong>National Technological University [UTN]</strong><br><br>
 My current knowledge
-C# <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)" alt="C" width="40" height="28"/> & Currently studying JAVA SE  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C" width="40" height="28"/> & Currently studying JAVA SE  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git" **alt="Git" width="40" height="40"/>
         <br><br>
         Programming Student at the
         <br>
@@ -28,7 +28,8 @@ C# <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.sv
   <p align="center">
      <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
      <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-     <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">     
+     <img align="center" alt="aguss-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+      <img align="center" alt="aguss-CSS" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png "> 
       </p>
 </div>
 
