@@ -23,6 +23,7 @@ C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp
   <img align="center" alt="aguss-PY" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="aguss-GIT" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="aguss-GIT" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
+      <img align="center" alt="aguss-GIT" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"> 
   </p>
    <h4 align = "center"> IDE's Used</h4>
   <p align="center">
