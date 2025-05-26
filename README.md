@@ -47,6 +47,14 @@
 
 <br>
 
+<h2 align="center">📊 GitHub Stats by Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agusslo&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
+</p>
+
+
+<br>
+
 <!-- CONTACT -->
 <h3 align="center">📲 Contact Me</h3>
 <p align="center">
